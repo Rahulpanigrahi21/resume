@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Akshay kumar",
+    "occupation": "CS Student",
+    "description": "Self taught Front-end dev",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Akshay! I've been coding for over a month now. I've done both Front-end and Back-end. I enjoy my work most while doing the Front-end part of the work. Along the journey I realised that I have passion for Full-stack development. With this passion, I started brushing up my Back-end skills and I want to excel in it. I had developed some of the coolest builds such as Netflix landing page, Instagram clone",
+    "contactmessage": "Get in touch with me",
+    "email": "akshay.20bce7408@vitap.ac.in",
+    "phone": "+91 9888585960",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "123 Dev Street",
+      "city": "Guntur",
+      "state": "AP",
+      "zip": "W523437"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -34,12 +34,12 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/not.akshaykumar/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/akshay11151",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +48,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "VIT-AMARAVATI",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2024",
+        "description": "Graduated with Shit Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Q-hub",
+        "title": "Developer",
+        "years": "Sep 2020 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
       }
     ],
     "skills": [
@@ -68,7 +68,7 @@
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Java",
         "level": "85%"
       },
       {
@@ -110,11 +110,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "text": "Akshay is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
         "user": "Jorge Fouto"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "text": "Learning with Akshay has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
         "user": "Adam Curtis"
       }
     ]
