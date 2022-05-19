@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Akshay kumar",
+    "name": "Rahul Panigrahi",
     "occupation": "CS Student",
     "description": "Self taught Front-end dev",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Akshay! I've been coding for over a month now. I've done both Front-end and Back-end. I enjoy my work most while doing the Front-end part of the work. Along the journey I realised that I have passion for Full-stack development. With this passion, I started brushing up my Back-end skills and I want to excel in it. I had developed some of the coolest builds such as Netflix landing page, Instagram clone",
+    "bio": "Hi there! I am Rahul ! I've been coding for over a month now. I've done both Front-end and Back-end. I enjoy my work most while doing the Front-end part of the work. Along the journey I realised that I have passion for Full-stack development. With this passion, I started brushing up my Back-end skills and I want to excel in it. I had developed some of the coolest builds such as Netflix landing page, Instagram clone",
     "contactmessage": "Get in touch with me",
-    "email": "akshay.20bce7408@vitap.ac.in",
-    "phone": "+91 9888585960",
+    "email": "rahul.20bce7475@vitap.ac.in",
+    "phone": "+91 8349021081",
     "address": {
-      "street": "123 Dev Street",
-      "city": "Guntur",
-      "state": "AP",
-      "zip": "W523437"
+      "street": "purana para",
+      "city": "jagdalpur",
+      "state": "chattisgarh",
+      "zip": "494221"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.google.com/",
+    "resumedownload": "http://google.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/not.akshaykumar/",
+        "url": "https://www.instagram.com/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/akshay11151",
+        "url": "https://github.com/",
         "className": "fa fa-github"
       }
     ]
